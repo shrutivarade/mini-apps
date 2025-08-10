@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+yt-dlp
+whisper
+streamlit
